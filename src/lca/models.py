@@ -1,3 +1,7 @@
+#  Copyright (C) 2023 Battelle Memorial Institute
+#  SPDX-License-Identifier: BSD-2-Clause
+#  See: https://spdx.org/licenses/
+
 import numpy as np
 
 from lava.magma.core.model.sub.model import AbstractSubProcessModel
